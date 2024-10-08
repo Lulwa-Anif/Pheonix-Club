@@ -1,0 +1,12 @@
+#Virtual Environment
+venv/
+
+# pycache and migrations
+backend/api/__pycache__
+backend/api/migrations
+backend/backend/__pycache__
+backend/club/__pycache__
+backend/club/migrations
+
+#database
+backend/db.sqlite3
